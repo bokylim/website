@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'bold';
+    src: url(../assets/font/APPLESDGOTHICNEOH.TTF) format('truetype');
+}
+@font-face {
+    font-family: 'medium';
+    src: url(../assets/font/APPLESDGOTHICNEOM.TTF) format('truetype');
+}
+@font-face {
+    font-family: 'thin';
+    src: url(../assets/font/APPLESDGOTHICNEOL.TTF) format('truetype');
+}
